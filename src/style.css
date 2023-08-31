@@ -9,7 +9,7 @@ img{
 
 .header{
     display: flex;
-    border-bottom: 1px dotted black;
+    border-bottom: 3px dotted black;
 }
 
 .header .middle{
