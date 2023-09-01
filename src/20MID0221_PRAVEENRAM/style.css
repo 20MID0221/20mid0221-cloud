@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin-top: 30px;
+}
+
+img{
+    margin: 30px;
+}
+
+.header{
+    display: flex;
+    border-bottom: 3px dotted black;
+}
+
+.header .middle{
+    text-align: justify;
+    flex: 1;
+}
+
+.details{
+    flex: 1;
+    text-align: right;
+    margin-right: 30px;
+}
+
+.second{
+    padding-left: 30px;
+}
+
+h1{
+    margin-bottom: 30px;
+}
